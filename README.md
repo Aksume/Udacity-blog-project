@@ -5,4 +5,4 @@ Project for Udacity
 * CSS
 * FlexBox
 * CSS Grid
-### [Demo link Hear]( https://aksume.github.io/Udacity-blog-project/)
+### [Demo link Hear](https://tubular-palmier-fb0c4b.netlify.app)
